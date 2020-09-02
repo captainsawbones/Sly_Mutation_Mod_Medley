@@ -7,6 +7,8 @@ This CDDA modification is an attempt to gently rejigger the basegame mutations b
 
 This mod does not wholesale replace any mutation; when that tactic is used, it can cause issues with game updates and compatibility with other mods.  Instead what it does is modify the original mutation inputs using deletes and extends, meaning nothing from the basegame will ever fully be overwritten, and there's a greater amount of compatibility with other mods that also need to touch the base mutations.
 
+Want something to rebalance and hopefully make mutations more fun and interesting while also using this same 'keep it as compatible with other mods as possible' tactic?  Check out my [Mighty Morphin Mutations Mod](https://github.com/captainsawbones/Sly_Mighty_Morphin_Mutations).
+
 
 **How to Install:**
 
